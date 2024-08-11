@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rajat.chauhan/Downloads/Data%20science/ML-FLOW-DEMO/mlruns/279223432344242599/91b8adacc4224c808b8d7b30471c822e/artifacts
+end_time: 1723354167574
+entry_point_name: ''
+experiment_id: '279223432344242599'
+lifecycle_stage: active
+run_id: 91b8adacc4224c808b8d7b30471c822e
+run_name: rare-cod-912
+run_uuid: 91b8adacc4224c808b8d7b30471c822e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723354157312
+status: 3
+tags: []
+user_id: rajat.chauhan

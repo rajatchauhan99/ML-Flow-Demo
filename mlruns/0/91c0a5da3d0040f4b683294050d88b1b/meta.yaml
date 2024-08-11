@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/91c0a5da3d0040f4b683294050d88b1b/artifacts
+end_time: 1723352120127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91c0a5da3d0040f4b683294050d88b1b
+run_name: big-stork-150
+run_uuid: 91c0a5da3d0040f4b683294050d88b1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723352106265
+status: 4
+tags: []
+user_id: rajat.chauhan

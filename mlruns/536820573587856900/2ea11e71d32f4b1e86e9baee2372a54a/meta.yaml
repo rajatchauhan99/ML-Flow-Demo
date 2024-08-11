@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/536820573587856900/2ea11e71d32f4b1e86e9baee2372a54a/artifacts
+end_time: 1723353209215
+entry_point_name: ''
+experiment_id: '536820573587856900'
+lifecycle_stage: active
+run_id: 2ea11e71d32f4b1e86e9baee2372a54a
+run_name: bald-smelt-803
+run_uuid: 2ea11e71d32f4b1e86e9baee2372a54a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723353193035
+status: 4
+tags: []
+user_id: rajat.chauhan
